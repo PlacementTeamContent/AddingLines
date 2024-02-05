@@ -1,4 +1,4 @@
- 
+//This code is according to blank spaces present in question_id 
 function myFunction() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const sheet = ss.getSheetByName("Questions"); 
